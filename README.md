@@ -46,6 +46,9 @@ This guide details how to connect a **Poco X5 Pro 5G** Android phone to a Window
 
 ---
 
+![image](https://github.com/user-attachments/assets/735ec56c-7995-4361-b1eb-817445f717b6)
+
+
 ### Pairing the Phone and PC
 
 1. **Initiate Pairing**:
@@ -63,6 +66,8 @@ This guide details how to connect a **Poco X5 Pro 5G** Android phone to a Window
    - Once paired, the Phone Link app will display your phone’s status and available features.
 
 ---
+
+![image](https://github.com/user-attachments/assets/548e4197-38c6-4123-98e2-2622a665269f)
 
 ### Configuring Phone Link Features
 
@@ -88,9 +93,10 @@ While Phone Link itself does not natively support webcam functionality, you can 
 2. Navigate to the **Apps** section and launch your phone’s camera app.
 3. Use the camera app as a visual feed during video calls by sharing your screen.
 
-For professional webcam functionality, consider using apps like DroidCam as outlined in other guides.
-
 ---
+
+![image](https://github.com/user-attachments/assets/b8c54f6a-1af6-4f81-be2b-8811e4ca5aa4)
+
 
 ## Additional Features of Phone Link
 
@@ -121,9 +127,11 @@ For professional webcam functionality, consider using apps like DroidCam as outl
 
 ---
 
-## Licensing Information
+## Licensing Information and Credit
 
 The Phone Link and Link to Windows apps are distributed by Microsoft and subject to their respective terms of use. For more details, visit the [Microsoft Terms and Conditions](https://www.microsoft.com).
+
+Credit to Future for images shown.
 
 ---
 
